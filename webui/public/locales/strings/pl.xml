@@ -52,18 +52,18 @@
     <string name="menu_keybox_aosp">AOSP</string>
     <string name="menu_keybox_unknown">Nieznany</string>
     <string name="menu_keybox_local">Lokalny</string>
-    <string name="menu_set_verified_boot_hash">Ustaw zweryfikowany skrót rozruchowy</string>
+    <string name="menu_prop_setting">Ustawienia właściwości</string>
     <string name="menu_set_security_patch">Ustaw poprawkę zabezpieczeń</string>
     <string name="menu_set_devconfig">Ustaw konfigurację programisty</string>
     <string name="menu_help">Pomoc</string>
     <string name="menu_language">Język</string>
     <string name="menu_about">O Tricky Addon</string>
-    <!-- Boot Hash -->
+    <!-- Prop Dialog -->
+    <string name="prop_handler">Obsługa właściwości</string>
     <string name="boot_hash_title">Skrót rozruchowy</string>
-    <string name="boot_hash_input_placeholder">Wklej tutaj zweryfikowany skrót rozruchowy</string>
     <!-- About -->
     <string name="about_module_name_line1">Tricky Addon</string>
-    <string name="about_module_name_line2">Uaktualnij listę docelową</string>
+    <string name="about_module_name_line2">Zaktualizuj listę docelową</string>
     <string name="about_by">wydany przez:</string>
     <string name="about_telegram_channel">Telegram</string>
     <string name="about_canary_update">Zaktualizuj do najnowszej wersji Canary</string>
@@ -71,7 +71,6 @@
     <string name="about_disclaimer">Ten moduł nie jest częścią modułu Tricky Store. Nie zgłaszaj żadnych problemów do Tricky Store, jeśli je napotkasz.</string>
     <string name="about_acknowledgment">Podziękowania dla:</string>
     <!-- Prompt -->
-    <string name="prompt_no_internet">Sprawdź połączenie internetowe</string>
     <string name="prompt_aosp_key_set">Zestaw kluczy AOSP ustawiony pomyślnie</string>
     <string name="prompt_key_set_error">Nie udało się zaktualizować zestawu kluczy</string>
     <string name="prompt_unknown_key_set">Nieznany zestaw kluczy ustawiony pomyślnie</string>
@@ -98,6 +97,7 @@
     <string name="prompt_custom_key_set_error">Nie udało się ustawić niestandardowego zestawu kluczy</string>
     <string name="prompt_custom_saved">Zapisano niestandardowy wpis zestawu kluczy </string>
     <string name="prompt_custom_fetch_error">Nie udało się załadować zestawu kluczy</string>
+    <string name="prompt_custom_not_found">Nie znaleziono niestandardowego zestawu kluczy</string>
     <string name="prompt_custom_invalid_script">Skrypt jest niedozwolony</string>
     <string name="prompt_custom_removed">Usunięto niestandardowy wpis zestawu kluczy</string>
     <string name="prompt_no_file_selected">Nie wybrano pliku</string>
@@ -143,6 +143,6 @@
     <!-- Mode dialog -->
     <string name="mode_dialog_title">Tryb</string>
     <string name="mode_auto">Automatyczny</string>
-    <string name="mode_certificate_generating">Generowanie certyfikatów (!)</string>
-    <string name="mode_leaf_hack">Obejście sposobem (?)</string>
+    <string name="mode_certificate_generating">Generowanie certyfikatu</string>
+    <string name="mode_leaf_hack">Podmiana certyfikatu</string>
 </resources>

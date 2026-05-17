@@ -45,14 +45,12 @@
     <string name="menu_keybox_aosp">AOSP</string>
     <string name="menu_keybox_unknown">Unbekannt</string>
     <string name="menu_keybox_local">Lokal</string>
-    <string name="menu_set_verified_boot_hash">Verifizierten Boot-Hash setzen</string>
     <string name="menu_set_security_patch">Sicherheitspatch setzen</string>
     <string name="menu_help">Hilfe</string>
     <string name="menu_language">Sprache</string>
     <string name="menu_about">Über</string>
-    <!-- Boot Hash -->
+    <!-- Prop Dialog -->
     <string name="boot_hash_title">Boot Hash</string>
-    <string name="boot_hash_input_placeholder">Füge hier deinen verifizierten Boot Hash ein</string>
     <!-- About -->
     <string name="about_module_name_line1">Tricky Addon</string>
     <string name="about_module_name_line2">Ziel­liste aktualisieren</string>
@@ -63,7 +61,6 @@
     <string name="about_disclaimer">Dieses Modul ist kein Teil des Tricky Store Moduls. BITTE melde keine Probleme an Tricky Store.</string>
     <string name="about_acknowledgment">Danksagung</string>
     <!-- Prompt -->
-    <string name="prompt_no_internet">Bitte überprüfe deine Internetverbindung</string>
     <string name="prompt_aosp_key_set">AOSP Keybox erfolgreich gesetzt</string>
     <string name="prompt_key_set_error">Fehler beim Aktualisieren der Keybox</string>
     <string name="prompt_unknown_key_set">Unbekannte Keybox erfolgreich gesetzt</string>

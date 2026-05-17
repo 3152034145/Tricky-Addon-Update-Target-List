@@ -52,15 +52,15 @@
     <string name="menu_keybox_aosp">AOSP</string>
     <string name="menu_keybox_unknown">未知</string>
     <string name="menu_keybox_local">本機</string>
-    <string name="menu_set_verified_boot_hash">設置哈希值</string>
+    <string name="menu_prop_setting">Prop 設定</string>
     <string name="menu_set_security_patch">設置安全補丁</string>
     <string name="menu_set_devconfig">設定 DevConfig</string>
     <string name="menu_help">幫助</string>
     <string name="menu_language">語言</string>
     <string name="menu_about">關於</string>
-    <!-- Boot Hash -->
+    <!-- Prop Dialog -->
+    <string name="prop_handler">Prop 助理</string>
     <string name="boot_hash_title">哈希值</string>
-    <string name="boot_hash_input_placeholder">在此貼上您的哈希值</string>
     <!-- About -->
     <string name="about_module_name_line1">TS 插件</string>
     <string name="about_module_name_line2">更新目標列表</string>
@@ -71,7 +71,6 @@
     <string name="about_disclaimer">此 WebUI 並非 Tricky Store 的一部分，如遇任何問題請勿向 Tricky Store 作者反饋。</string>
     <string name="about_acknowledgment">特別鳴謝</string>
     <!-- Prompt -->
-    <string name="prompt_no_internet">請檢查您的網絡連接</string>
     <string name="prompt_aosp_key_set">成功設置 AOSP 密鑰</string>
     <string name="prompt_key_set_error">更新密鑰失敗</string>
     <string name="prompt_unknown_key_set">成功設置未知密鑰</string>
@@ -98,6 +97,7 @@
     <string name="prompt_custom_key_set_error">自定義密鑰設置失敗</string>
     <string name="prompt_custom_saved">已儲存自訂密鑰入口</string>
     <string name="prompt_custom_fetch_error">取得密鑰失敗</string>
+    <string name="prompt_custom_not_found">未找到自訂密鑰</string>
     <string name="prompt_custom_invalid_script">腳本不被允許</string>
     <string name="prompt_custom_removed">已移除自訂密鑰入口</string>
     <string name="prompt_no_file_selected">未選擇文件</string>

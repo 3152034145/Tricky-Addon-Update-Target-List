@@ -40,11 +40,9 @@
     <string name="menu_deselect_unnecessary">অপ্রয়োজনীয় নির্বাচন প্রত্যাহার করুন</string>
     <string name="menu_add_system_app">সিস্টেম অ্যাপ যোগ করুন</string>
     <string name="menu_keybox_local">স্থানীয়</string>
-    <string name="menu_set_verified_boot_hash">Verified Boot Hash সেট করুন</string>
     <string name="menu_set_security_patch">Security Patch সেট করুন</string>
     <string name="menu_about">সম্পর্কে</string>
-    <!-- Boot Hash -->
-    <string name="boot_hash_input_placeholder">আপনার verified Boot Hash এখানে পেস্ট করুন</string>
+    <!-- Prop Dialog -->
     <!-- About -->
     <string name="about_by">দ্বারা</string>
     <string name="about_telegram_channel">টেলিগ্রাম চ্যানেল</string>
@@ -52,7 +50,6 @@
     <string name="about_disclaimer">এই মডিউলটি Tricky Store মডিউলের অংশ নয়। সমস্যা হলে Tricky Store এ রিপোর্ট করবেন না।</string>
     <string name="about_acknowledgment">কৃতজ্ঞতা স্বীকার</string>
     <!-- Prompt -->
-    <string name="prompt_no_internet">অনুগ্রহ করে আপনার ইন্টারনেট সংযোগ চেক করুন।</string>
     <string name="prompt_aosp_key_set">AOSP keybox সফলভাবে সেট হয়েছে</string>
     <string name="prompt_key_set_error">Keybox আপডেট করতে ব্যর্থ</string>
     <string name="prompt_unknown_key_set">Unknown keybox সফলভাবে সেট হয়েছে</string>

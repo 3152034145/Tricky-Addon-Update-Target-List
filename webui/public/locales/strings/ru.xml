@@ -43,15 +43,13 @@
     <string name="menu_add_system_app">Добавить системное приложение</string>
     <string name="menu_keybox_unknown">Неизвестно</string>
     <string name="menu_keybox_local">Локальная</string>
-    <string name="menu_set_verified_boot_hash">Установить verified boot hash</string>
     <string name="menu_set_security_patch">Установить security patch</string>
     <string name="menu_set_devconfig">Установить DevConfig</string>
     <string name="menu_help">Справка</string>
     <string name="menu_language">Язык</string>
     <string name="menu_about">О программе</string>
-    <!-- Boot Hash -->
+    <!-- Prop Dialog -->
     <string name="boot_hash_title">Boot Hash</string>
-    <string name="boot_hash_input_placeholder">Вставьте свой проверенный Boot Hash сюда</string>
     <!-- About -->
     <string name="about_module_name_line1">Tricky Addon</string>
     <string name="about_module_name_line2">Обновить список целей</string>
@@ -62,7 +60,6 @@
     <string name="about_disclaimer">Этот WebUI не является частью Tricky Store, НЕ сообщайте автору Tricky Store о любых возникающих проблемах.</string>
     <string name="about_acknowledgment">Благодарности</string>
     <!-- Prompt -->
-    <string name="prompt_no_internet">Пожалуйста, проверьте ваше подключение к интернету</string>
     <string name="prompt_aosp_key_set">AOSP keybox успешно установлен</string>
     <string name="prompt_key_set_error">Не удалось обновить keybox</string>
     <string name="prompt_unknown_key_set">Неизвестный keybox успешно установлен</string>
